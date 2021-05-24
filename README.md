@@ -1,2 +1,2 @@
 # FlaskBlogsite
-A Simple Blog Site developed using Python Flask Library.
+A Simple Blog Site developed using Python Flask Library which allows users to create, read and edit Articles.
